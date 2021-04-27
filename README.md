@@ -10,7 +10,7 @@ Download both files into your own computer - more detailed instructions you will
 
 ### LICENSES
 
-####Software license:
+#### Software license:
 
 Copyright 2021, Kari Salo, Metropolia University of Applied Sciences
 
@@ -26,7 +26,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-####Audio File license
+#### Audio File license
 
 expressions of the mind (Piano loop) by ShadyDave, source: https://freesound.org/people/ShadyDave/sounds/325647/
 
