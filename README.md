@@ -30,6 +30,6 @@ limitations under the License.
 
 expressions of the mind (Piano loop) by ShadyDave, source: https://freesound.org/people/ShadyDave/sounds/325647/
 
-This work is licensed under the Attribution Noncommercial License. You may obtain a copy of the License at
+This work is licensed under the Creative Commons Attribution Noncommercial License. You may obtain a copy of the License at
 
 [CC Attribution-NonCommercial 3.0 Unported](https://creativecommons.org/licenses/by-nc/3.0/legalcode "CC Attribution-NonCommercial 3.0 Unported")
